@@ -1,0 +1,14 @@
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\obj\Debug\TM1.csprojAssemblyReference.cache
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\obj\Debug\TM1.csproj.CoreCompileInputs.cache
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\bin\Debug\TM1.exe.config
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\bin\Debug\TM1.exe
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\bin\Debug\TM1.pdb
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\obj\Debug\TM1.exe
+C:\Users\royab\OneDrive\Desktop\TM1\TM1\TM1\obj\Debug\TM1.pdb
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\bin\Debug\TM1.exe.config
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\bin\Debug\TM1.exe
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\bin\Debug\TM1.pdb
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\obj\Debug\TM1.csprojAssemblyReference.cache
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\obj\Debug\TM1.csproj.CoreCompileInputs.cache
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\obj\Debug\TM1.exe
+C:\Users\royab\Downloads\TM1 (2)\TM1\TM1\obj\Debug\TM1.pdb
